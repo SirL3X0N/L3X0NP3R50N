@@ -18,7 +18,7 @@
         </svg>
     </button>
 
-    <h1 class="block text-white font-serif underline text-2xl tracking-tighter font-extrabold mx-5 mx-auto">Seth Lee</h1>
+    <h1 class="block text-white font-serif underline text-2xl tracking-tighter font-extrabold mx-5 sm:mx-auto">Seth Lee</h1>
     <!-- <div class="font-mono flex md:ml-auto "> -->
     <button type="button" class="md:hidden p-2 text-white bg-red-500 hover:bg-red-600 font-medium rounded-2xl px-4 py-2 text-center text-sm">Contact</button>
 
